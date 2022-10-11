@@ -1,5 +1,8 @@
 # Bootstrap 5
 
+- width=device-width: ocupar toda a largura da tela do dispositvo.
+- initial-scale: zoom inicial.
+
 ~~~html
 <!DOCTYPE html>
 <html lang="en">
@@ -15,5 +18,4 @@
 
 </body>
 </html>
-
 ~~~
