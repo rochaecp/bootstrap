@@ -14,4 +14,4 @@
 1. [Tabelas](v5/tabelas.md)
 1. [Imagens](v5/imagens.md)
 1. [Jumbotron](v5/jumbotron.md)
-1. [alerts](v5/alerts.md)
+1. [Alerts](v5/alerts.md)
